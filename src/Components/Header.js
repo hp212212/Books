@@ -7,7 +7,7 @@ function Header() {
     <>
       <nav class="navbar navbar-expand-lg bg-body-tertiary bg-success">
         <div class="container  py-3">
-          <NavLink className="navbar-brand text-center" to="/">Book Bazzars.com.outlook</NavLink>
+          <NavLink className="navbar-brand text-center" to="/">Book Bazzar</NavLink>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
