@@ -1,0 +1,115 @@
+Login {
+    font-size: larger;
+}
+
+.eyesetting {
+    position: relative;
+}
+
+.fa-solid {
+    position: absolute;
+    top: 30%;
+    right: 3%;
+    color: black;
+}
+
+.leftarrow {
+    flex-basis: 10%;
+    position: absolute;
+    top: 24%;
+    right: 15%;
+    color: tomato;
+    font-size: 20px;
+    /* display: inline-block; */
+}
+
+.span {
+    color: tomato;
+    background-color: black;
+}
+
+.TitleForm {
+    border: solid white 4px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.page-scroll {
+    height: 400px;
+    overflow: hidden;
+}
+
+.page-scroll:hover {
+    overflow-y: auto;
+}
+
+.Pages,
+.Backtobookdetail {
+    position: absolute;
+    top: 30%;
+    right: 12%;
+    color: tomato;
+}
+
+.Backtobookdetail {
+    right: 80%;
+}
+
+.Book-page-scroll {
+    width: 200px;
+    overflow: hidden;
+}
+
+.Book-page-scroll:hover {
+    overflow-x: auto;
+}
+
+.Reader {
+    height: 300px;
+}
+
+.Reader .ql-tooltip {
+    display: none;
+}
+
+.Texar .ql-container {
+    height: 200px;
+    overflow: hidden;
+}
+
+.Pagination {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 0;
+}
+
+.Pagination li {
+    padding: 5px;
+    /* border: 1px solid white; */
+    cursor: pointer;
+}
+
+.Pagination li.active {
+    color: red;
+    /* color: black; */
+}
+
+.Pagination li button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.Pagination li button:hover,
+.Pagination li:hover {
+    color: black;
+}
+
+.Pagination li button:focus {
+    outline: none;
+
+}

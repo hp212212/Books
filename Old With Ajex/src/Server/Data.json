@@ -1,0 +1,60 @@
+{
+  "AdminLogin": [
+    {
+      "uname": "h",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "uname": "v",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "AdminPerson": [
+    {
+      "uname": "h",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "Users": [
+    {
+      "fname": "hit",
+      "email": "111@gmail.com",
+      "contact": "1111111111",
+      "password": "123",
+      "gender": "Male",
+      "id": 1
+    }
+  ],
+  "BookTopics": [
+    {
+      "topic": "Java",
+      "id": 1
+    }
+  ],
+  "BookTitle": [
+    {
+      "topic": "Java",
+      "title": "Introduction to Java",
+      "author": "Sachin Bhai",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "topic": "Java",
+      "title": "Detail In Java",
+      "author": "Sachin Bhai",
+      "country": "India",
+      "id": 2
+    },
+    {
+      "topic": "Java",
+      "title": "Java Java",
+      "author": "Sachin Bhai",
+      "country": "India",
+      "id": 3
+    }
+  ]
+}
